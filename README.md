@@ -80,4 +80,9 @@ Directory for storing test execution results, including screenshots, trace files
 Clone the repository and install dependencies using npm install.
 Run tests using npm test.
 View test reports in the playwright-report directory.
-Explore source code files for detailed implementation.
+Explore source code files for detailed implementation implementations
+
+Clone the repository and install dependencies using npm install.
+Run tests using npm test.
+View test reports in the playwright-report directory.
+Explore source code files for detailed implementation implementations
